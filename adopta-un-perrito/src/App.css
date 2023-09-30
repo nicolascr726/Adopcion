@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6rem;
+  margin-left: 13rem;
+  margin-top: 5rem;
+}
+.card-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  margin-top: 4rem;
+  display: flex;
+  justify-content: center;
+}
+
+h3 {
+    margin: 10rem;
+}
